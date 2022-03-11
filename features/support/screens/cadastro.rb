@@ -14,4 +14,6 @@ class Cadastro
     def tap_by_text
         find_element(id: "android:id/message")
     end
+
+    
 end
